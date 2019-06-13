@@ -6,6 +6,7 @@
 //  Copyright © 2562 BE Irving Nicoli. All rights reserved.
 //
 
+// Esta es una prueba de GitHub
 #include <iostream>
 #include <time.h>
 #include <string>
